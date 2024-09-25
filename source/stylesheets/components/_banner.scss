@@ -1,3 +1,29 @@
 .banner {
   height: 100vh;
 }
+
+.title-main {
+  font-size: 56px;
+  // margin: 30px;
+}
+
+.navigation-button {
+  padding: 16px;
+}
+
+.navigation-button-link {
+  display: flex;
+  flex-direction: column; /* Stack icon and text vertically */
+  align-items: center; /* Center the icon and text horizontally */
+  text-decoration: none; /* Remove underline from the link */
+  color: inherit; /* Make sure the link takes the text color */
+}
+
+.navigation-button-link i {
+  font-size: 1.5rem; /* Adjust the size of the GitHub icon */
+  margin-bottom: 2px; /* Add some space between the icon and the text */
+}
+
+.navigation-button-link span {
+  font-size: 1rem; /* Adjust the size of the text */
+}

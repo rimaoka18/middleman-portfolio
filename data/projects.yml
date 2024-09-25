@@ -1,15 +1,8 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: Form (Calisthenics)
+  description: Workout tracker that allows you to record video your exercises, store them as part of your workout log and compare to your your past performance.
   image: projects/placeholder.png
   url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+  github: https://www.form-calisthenics.com
   online: true
 
 - name: Airbnb
@@ -19,7 +12,14 @@
   github: https://www.github.com
   online: true
 
-- name: Final project
+- name: Longest Word Game
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: true
+
+- name: Movie Watchlist
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
