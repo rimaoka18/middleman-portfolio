@@ -6,7 +6,7 @@
 
 .card-product {
   overflow: hidden;
-  height: 280px;
+  height: auto;
   background: white;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
@@ -16,9 +16,9 @@
 }
 
 .card-product img {
-  height: 184px;
+  height: 300px;
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .card-product h2 {
@@ -38,6 +38,7 @@
 .card-product .card-product-infos {
   padding: 16px;
   position: relative;
+
   &:hover {
     .external-link {
       opacity: 1;
@@ -57,6 +58,7 @@
   transition: opacity 1s;
   text-decoration: none;
   font-size: 20px;
+
   &:hover {
     cursor: pointer;
     color: $gray
@@ -68,6 +70,7 @@
   .cards {
     grid-template-columns: 1fr;
   }
+
   .external-link {
     opacity: 1;
   }
@@ -78,6 +81,7 @@
   .cards {
     grid-template-columns: 1fr;
   }
+
   .external-link {
     opacity: 1;
   }
@@ -88,6 +92,7 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
+
   .external-link {
     opacity: 0;
   }

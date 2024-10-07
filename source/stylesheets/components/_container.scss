@@ -1,0 +1,16 @@
+
+
+.custom-container {
+  border: 3px solid rgba(255, 255, 255, 0.2); /* Light white-transparent border */
+  border-radius: 15px; /* Smooth rounded corners */
+  padding: 20px; /* Space inside the container */
+  background-color: white; /* Slightly lighter black background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow */
+  transition: all 0.3s ease-in-out; /* Smooth transition for hover effect */
+}
+
+.custom-container:hover {
+  border-color: black; /* Change border color on hover (orange-red) */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* Elevate shadow on hover */
+  transform: scale(1.02); /* Slight zoom effect on hover */
+}

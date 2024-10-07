@@ -1,34 +1,27 @@
 - name: Form (Calisthenics)
   description: Workout tracker that allows you to record video your exercises, store them as part of your workout log and compare to your your past performance.
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.form-calisthenics.com
+  image: projects/form.png
+  url: https://www.form-calisthenics.com
+  github: https://github.com/rimaoka18/form_calisthenics_app
   online: true
 
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: Turbo (car rental)
+  description: Turbo is a car rental app that allows you to rent super cars in Japan.
+  image: projects/turbo.png
+  url: https://car-rental-1715-bba1fbc9061d.herokuapp.com/
+  github: https://github.com/rimaoka18/car-rental
   online: true
 
 - name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
+  description: An intuitive app that lets users easily add and organize movies they want to watch, ensuring they never miss a film they’re excited about.
+  image: projects/watch-list.png
   url: https://www.google.com
   github: https://www.github.com
-  online: true
+  online: false
 
 - name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
+  description: A user-friendly platform that allows users to discover, review, and share local businesses, mimicking the core features of Yelp. Explore ratings, read reviews, and find the best spots in town effortlessly.
+  image: projects/yelp.png
   url: https://www.google.com
   github: https://www.github.com
   online: false
