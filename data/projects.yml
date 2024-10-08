@@ -1,5 +1,5 @@
 - name: Form (Calisthenics)
-  description: Workout tracker that allows you to record video your exercises, store them as part of your workout log and compare to your your past performance.
+  description: Form is a calisthenics workout tracker that lets you record exercise videos, log them in your workout history, and easily compare your progress over time.
   image: projects/form.png
   url: https://www.form-calisthenics.com
   github: https://github.com/rimaoka18/form_calisthenics_app
